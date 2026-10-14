@@ -24,7 +24,7 @@ En la ayuda de la terminal acabamos de contrastar la información
 
 ![Ayuda de la terminal](foto4.png)
 
-## Procedemos a ponerlo en la terminal
+## Procedemos a ponerlo en la terminalrrrrr
 
 ![Resultado](foto6.png)
 
